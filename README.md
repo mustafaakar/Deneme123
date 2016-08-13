@@ -1,5 +1,2 @@
 # Deneme123
-açıklama satırıı burası 
-ssdfıjsohfshoıfhosfksknfs
-sfkowjofpwpofwpjfojpwfopwjfposs
-fğkwfojwojfwğf
+Textleri buraya yaz ve at
