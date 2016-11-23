@@ -1,0 +1,1 @@
+ MySqlDataAdapter adapter = new MySqlDataAdapter("select * from bilgi where bilgi.ad='a'", baglanti);
